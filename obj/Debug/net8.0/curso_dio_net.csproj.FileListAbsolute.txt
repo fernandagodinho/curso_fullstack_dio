@@ -1,0 +1,14 @@
+C:\curso_dio_net\bin\Debug\net8.0\curso_dio_net.exe
+C:\curso_dio_net\bin\Debug\net8.0\curso_dio_net.deps.json
+C:\curso_dio_net\bin\Debug\net8.0\curso_dio_net.runtimeconfig.json
+C:\curso_dio_net\bin\Debug\net8.0\curso_dio_net.dll
+C:\curso_dio_net\bin\Debug\net8.0\curso_dio_net.pdb
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.AssemblyInfoInputs.cache
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.AssemblyInfo.cs
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.csproj.CoreCompileInputs.cache
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.dll
+C:\curso_dio_net\obj\Debug\net8.0\refint\curso_dio_net.dll
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.pdb
+C:\curso_dio_net\obj\Debug\net8.0\curso_dio_net.genruntimeconfig.cache
+C:\curso_dio_net\obj\Debug\net8.0\ref\curso_dio_net.dll
