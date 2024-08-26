@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso_dio_net\\curso_dio_net.csproj": {}
+    "C:\\curso_dio_net\\curso_fullstack_dio\\curso_dio_net.csproj": {}
   },
   "projects": {
-    "C:\\curso_dio_net\\curso_dio_net.csproj": {
+    "C:\\curso_dio_net\\curso_fullstack_dio\\curso_dio_net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_dio_net\\curso_dio_net.csproj",
+        "projectUniqueName": "C:\\curso_dio_net\\curso_fullstack_dio\\curso_dio_net.csproj",
         "projectName": "curso_dio_net",
-        "projectPath": "C:\\curso_dio_net\\curso_dio_net.csproj",
+        "projectPath": "C:\\curso_dio_net\\curso_fullstack_dio\\curso_dio_net.csproj",
         "packagesPath": "C:\\Users\\fgodi\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_dio_net\\obj\\",
+        "outputPath": "C:\\curso_dio_net\\curso_fullstack_dio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fgodi\\AppData\\Roaming\\NuGet\\NuGet.Config"
